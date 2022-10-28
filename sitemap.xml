@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://smartwatchgt08official.ru/index.html</loc>
+    <lastmod>2018-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://smartwatchgt08official.ru/phone/index.html"/>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/if_smart_watch_416409.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/fon222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer26.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/1.png</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/foto45.png</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer129x89.jpg</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer1-crop-u1418.jpg</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer2129x86.jpg</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer23-crop-u1470.jpg</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer24129x86.jpg</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer25129x86.jpg</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/galer26129x86.jpg</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/154.png</image:loc>
+      <image:caption>Smart Watch GT08</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://smartwatchgt08official.ru/spasibo.html</loc>
+    <lastmod>2018-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/fon222.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://smartwatchgt08official.ru/konf.html</loc>
+    <lastmod>2018-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://smartwatchgt08official.ru/phone/konf.html"/>
+  </url>
+  <url>
+    <loc>http://smartwatchgt08official.ru/oplata.html</loc>
+    <lastmod>2018-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://smartwatchgt08official.ru/phone/oplata.html"/>
+    <image:image>
+      <image:loc>http://smartwatchgt08official.ru/images/fon222.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

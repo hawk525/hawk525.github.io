@@ -1,0 +1,234 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartwatchgt08official.ru" resolutions="1x" timestamp="1632330878627">
+  <folder name="css">
+    <file name="site_global.css" crc="204463058"/>
+    <file name="master_______-a.css" crc="3949393504" ref="konf:index:oplata:spasibo"/>
+    <file name="konf.css" crc="4149146154" ref="konf"/>
+    <file name="iefonts_konf.css" crc="521307921" ref="konf"/>
+    <file name="index.css" crc="235475303" ref="index"/>
+    <file name="iefonts_index.css" crc="476110501" ref="index"/>
+    <file name="oplata.css" crc="209155748" ref="oplata"/>
+    <file name="iefonts_oplata.css" crc="3908933865" ref="oplata"/>
+    <file name="spasibo.css" crc="163022594" ref="spasibo"/>
+    <file name="iefonts_spasibo.css" crc="460697858" ref="spasibo"/>
+  </folder>
+  <folder name="fonts">
+    <file name="bigbossicon.woff" crc="331700122"/>
+    <file name="bigbossicon.eot" crc="492749460"/>
+    <file name="bigbossicon.svg" crc="4248078019"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>konf:phone>oplata:index:spasibo:konf:oplata"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>konf:phone>oplata:index:spasibo:konf:oplata"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>konf:phone>oplata:index:spasibo:konf:oplata"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>konf:phone>oplata:index:spasibo:konf:oplata"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>konf:phone>oplata:index:spasibo:konf:oplata"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:index"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u3588.php" crc="4155511385" ref="phone>index"/>
+    <file name="form-u2735.php" crc="513616880" ref="phone>index"/>
+    <file name="form-u3876.php" crc="187340143" ref="phone>index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>konf:phone>oplata:index:spasibo:konf:oplata"/>
+    <file name="form-u329.php" crc="172424860" ref="index"/>
+    <file name="form-u1959.php" crc="4019481316" ref="index"/>
+    <file name="form-u2052.php" crc="3936883458" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="gt08mob-favicon.ico" crc="3765326647" ref="phone>index"/>
+    <file name="fon1-u2701-fr.png" crc="4038248117" ref="phone>index"/>
+    <file name="logo.png" crc="25265288" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_smart_watch_416409.png" crc="375160760" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto2-u2727.png" crc="4185519397" ref="phone>index"/>
+    <file name="fon222.jpg" crc="3978512273" seo="true" ref="phone>index:phone>oplata:index:spasibo:oplata">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oplata" alt=""/>
+      <caption webpage="oplata" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+    </file>
+    <file name="1252x291.png" crc="4133002654" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="foto45252x303.png" crc="43947018" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer.jpg" crc="267877564" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="galer1-crop-u2893.jpg" crc="4238488927" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer2.jpg" crc="3766268526" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer23-crop-u2895.jpg" crc="196445424" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer24.jpg" crc="415341227" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer26.jpg" crc="3963467476" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer-crop-u2869.jpg" crc="305021261" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer1-crop-u2873.jpg" crc="143597581" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer299x66.jpg" crc="3996650849" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer23-crop-u2865.jpg" crc="371602137" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer2499x66.jpg" crc="3885513524" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer2699x66.jpg" crc="3804481325" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="fon1.jpg" crc="362579882" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto2-u3699.png" crc="291633576" ref="phone>index"/>
+    <file name="htb1x3canfxxxxxcxxxxq6xxfxxx6-u3726-fr.png" crc="454855254" ref="phone>index"/>
+    <file name="form-pole 1.png" crc="3800797552" ref="phone>index:index">
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+    </file>
+    <file name="form-pole 1 2.png" crc="292546344" ref="phone>index:index">
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+      <caption webpage="index" alt="Ваше имя*"/>
+    </file>
+    <file name="form-pole 2.png" crc="68335352" ref="phone>index:index">
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+    </file>
+    <file name="form-pole 2 2.png" crc="3758989183" ref="phone>index:index">
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+      <caption webpage="index" alt="Ваш телефон*"/>
+    </file>
+    <file name="шаблон-a-favicon.ico" crc="4275374142" ref="phone>konf"/>
+    <file name="gt08-favicon.ico" crc="4275374142" ref="index"/>
+    <file name="fon1-u112-fr.png" crc="4038248117" ref="index"/>
+    <file name="foto2-u457.png" crc="3763280774" ref="index"/>
+    <file name="1.png" crc="101093957" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="foto45.png" crc="3849020445" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer1.jpg" crc="36638413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer23.jpg" crc="370351831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer25.jpg" crc="503388845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galer129x89.jpg" crc="385012119" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer1-crop-u1418.jpg" crc="3787919790" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer2129x86.jpg" crc="141385909" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer23-crop-u1470.jpg" crc="42869709" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer24129x86.jpg" crc="61677000" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer25129x86.jpg" crc="96314454" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="galer26129x86.jpg" crc="475951585" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+    <file name="foto2-u1976.png" crc="3763280774" ref="index"/>
+    <file name="htb1x3canfxxxxxcxxxxq6xxfxxx6-u1895-fr.png" crc="454855254" ref="index"/>
+    <file name="154.png" crc="45820759" seo="true" ref="index">
+      <caption webpage="index" alt="Smart Watch GT08"/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="4222507089" ref="phone>konf:phone>index:phone>oplata"/>
+      <file name="konf.css" crc="457187235" ref="phone>konf"/>
+      <file name="iefonts_konf.css" crc="4089671222" ref="phone>konf"/>
+      <file name="index.css" crc="3897703244" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3775145266" ref="phone>index"/>
+      <file name="oplata.css" crc="4148084808" ref="phone>oplata"/>
+      <file name="iefonts_oplata.css" crc="4011515317" ref="phone>oplata"/>
+    </folder>
+    <file name="index.html" crc="4246397437" seo="true" mt="1526162504177" redirect="true"/>
+    <file name="konf.html" crc="3817180705" seo="true" mt="1525988815152" redirect="true"/>
+    <file name="oplata.html" crc="126460366" seo="true" mt="1525988815152" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4153442298" seo="true" mt="1526162467497" redirect="true"/>
+  <file name="spasibo.html" crc="4223951246" seo="true" mt="1525988791476" redirect="true"/>
+  <file name="konf.html" crc="111757465" seo="true" mt="1525988791476" redirect="true"/>
+  <file name="oplata.html" crc="4285745164" seo="true" mt="1525988791476" redirect="true"/>
+</manifest>
